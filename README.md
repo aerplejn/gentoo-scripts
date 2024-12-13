@@ -1,4 +1,4 @@
-# gentooscripts
+# gentoo scripts
 
 shell scripts that builds systemd based gentoo box for x86_64 platform.
 
